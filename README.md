@@ -59,10 +59,67 @@ Try out ConnectCharger instantly using the following guest login:
 - CORS, Dotenv, Helmet
 
 
-## 🚀 Getting Started
+## Run Locally
 
-### Clone the Repo
+### Setup Backend
+
+Clone the project
 
 ```bash
-git clone https://github.com/yourusername/connectcharger.git
-cd connectcharger
+  git clone https://github.com/arijitbouri0/Evoltsoft_assignment
+
+```
+
+1.Navigate to Server Directory
+```bash
+  cd Server
+```
+
+2.Install dependencies
+```bash
+  npm install
+```
+
+3.Create a .env file and add:
+```bash
+  PORT=8000
+  MONGODB_URI='your-mongodb-connection-string'
+  JWT_SECRET='your-secret-key'
+  CLIENT_URL='your-url'
+```
+
+4.Start the Backend Server
+```bash
+  npm run dev
+```
+### Setup Frontend
+
+1.Navigate to the client folder:
+```bash
+cd ../client
+```
+
+3.Create a .env file and add:
+```bash
+BACKEND_SERVER='http://localhost:8000'
+```
+
+Install frontend dependencies:
+```bash
+npm install
+```
+
+Run the React App
+```
+npm run dev
+```
+## License
+
+[MIT](https://choosealicense.com/licenses/mit/)
+
+
+## Support
+
+For support, email arijitbouri0@gmail.com .
+
+
