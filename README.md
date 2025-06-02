@@ -20,7 +20,6 @@
 - 📦 **Powerful Backend API with RTK Query**
 - ✅ **Filter Stations by Status, Connector Type, Power Output**
 
----
 
 ## 👥 Guest Credentials
 
