@@ -33,10 +33,14 @@ Try out ConnectCharger instantly using the following guest login:
 
 ## 📸 Screenshots
 
-| Desktop View | Mobile View |
-|--------------|-------------|
-| ![desktop](./screenshots/desktop.png) | ![mobile](./screenshots/mobile.png) |
+### 🏠 Home Page
+![Home](client/public/Home.png)
 
+### 🗺️ View Map
+![Map](client/public/Map.png)
+
+### ➕ Login Station
+![Add Station](client/public/Login.png)
 
 ## 🛠️ Tech Stack
 
