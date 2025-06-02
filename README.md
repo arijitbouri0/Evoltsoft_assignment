@@ -2,13 +2,11 @@
 
 **ConnectCharger** is a full-stack MERN (MongoDB, Express, React, Node.js) web application that allows users to explore, add, and manage Electric Vehicle (EV) charging stations across various locations. It includes role-based access, real-time map integration, and filters for power output, connector type, and station status.
 
----
 
 ## 🌐 Live Demo
 
 > 🚀 [View Live Application](https://evoltsoft-assignment-ncsm.vercel.app/)
 
----
 
 ## 📌 Features
 
@@ -22,7 +20,6 @@
 - 📦 **Powerful Backend API with RTK Query**
 - ✅ **Filter Stations by Status, Connector Type, Power Output**
 
----
 
 ## 📸 Screenshots
 
@@ -30,7 +27,6 @@
 |--------------|-------------|
 | ![desktop](./screenshots/desktop.png) | ![mobile](./screenshots/mobile.png) |
 
----
 
 ## 🛠️ Tech Stack
 
@@ -49,7 +45,6 @@
 - JWT Authentication
 - CORS, Dotenv, Helmet
 
----
 
 ## 🚀 Getting Started
 
