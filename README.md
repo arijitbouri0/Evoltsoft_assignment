@@ -20,6 +20,16 @@
 - 📦 **Powerful Backend API with RTK Query**
 - ✅ **Filter Stations by Status, Connector Type, Power Output**
 
+---
+
+## 👥 Guest Credentials
+
+Try out ConnectCharger instantly using the following guest login:
+
+```bash
+📧 Email: user@gmail.com  
+🔑 Password: 12345678
+```
 
 ## 📸 Screenshots
 
